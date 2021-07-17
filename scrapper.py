@@ -192,6 +192,7 @@ def get_playerstats(url):
     return player_stats
         
 if __name__=="__main__":
+    print("Enter URL : ")
     url = input()
     pprint(get_playerstats(url))
 
