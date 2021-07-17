@@ -1,19 +1,19 @@
 # ESPN-CricInfo-Scrapper
 ESPN-CricInfo Scrapper scraps the ESPN Cricinfo Scoreboard page and lists the following attributes for each player.
-* Balls Faced
-* Catches
-* Direct Throw Runout
-* Dismissal
-* Economy
-* Fours
-* LBW/Bowled Wickets
-* Maidens
-* No Balls
-* Overs Bowled
-* Runout involving Thrower and Catcher
-* Runs Conceded
 * Runs Scored
+* Fours
 * Sixes
 * Strike Rate
-* Wickets
-* Wides
+* Balls Faced
+* Dismissal
+* Total Wickets
+* LBW/Bowled Wickets
+* Economy
+* Maidens
+* No Balls Bowled
+* Overs Bowled
+* Wides Bowled
+* Runs Conceded
+* Catches
+* Direct Throw Runout
+* Runout involving Thrower and Catcher
